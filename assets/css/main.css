@@ -7,3 +7,12 @@ header {
 #mainHeader ul li a.active {
     color: white;
 }
+#mainHeader ul .secondLi ~ li {
+    background: red;
+}
+input[type="email"] {
+    color: red;
+}
+#mainHeader a[href="http"] {
+    color: red;
+}
