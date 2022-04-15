@@ -1,0 +1,9 @@
+header {
+    background: lightblue;
+}
+#mainHeader > a {
+    color: white;
+}
+#mainHeader ul li a.active {
+    color: white;
+}
